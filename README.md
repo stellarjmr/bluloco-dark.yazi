@@ -8,7 +8,7 @@ This flavor brings Bluloco's colorful dark palette to Yazi's file manager interf
 
 ## Compatibility
 
-Maintained against Yazi/Ya `26.5.6`.
+Maintained against Yazi/Ya `26.8.15`.
 
 ## Installation
 

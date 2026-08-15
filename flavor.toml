@@ -146,10 +146,10 @@ separator_style = { fg = "#636d83" }
 # : Help {{{
 
 [help]
-on      = { fg = "#10b1fe" }
-run     = { fg = "#ff78f8" }
+border  = { fg = "#10b1fe" }
+chord   = { fg = "#10b1fe" }
+action  = { fg = "#ff78f8" }
 hovered = { reversed = true, bold = true }
-footer  = { fg = "#282c34", bg = "#abb2bf" }
 
 # : }}}
 
